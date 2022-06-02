@@ -19,16 +19,22 @@
  */
 int main(int argc, char** argv) {
 
-   
-printf("  ____                      _ _           _             \n");        
-printf(" / ___|___  _ __ ___  _ __ (_) | __ _  __| | ___  _ __ ___  ___ \n");
-printf("| |   / _ \\| '_ ` _ \\| '_ \\| | |/ _` |/ _` |/ _ \\| '__/ _ \\/ __|\n");
-printf("| |__| (_) | | | | | | |_) | | | (_| | (_| | (_) | | |  __/\\__ \\\n");
-printf(" \\____\\___/|_| |_| |_| .__/|_|_|\\__,_|\\__,_|\\___/|_|  \\___||___/\n");
+printf("    _                _ _              _            \n");
+printf("   / \\   _ __   __ _| (_)______ _  __| | ___  _ __ \n");
+printf("  / _ \\ | '_ \\ / _` | | |_  / _` |/ _` |/ _ \\| '__|\n");
+printf(" / ___ \\| | | | (_| | | |/ / (_| | (_| | (_) | |   \n");
+printf("/_/   \\_\\_| |_|\\__,_|_|_/___\\__,_|\\__,_|\\___/|_| \n");
+
+printf(" _              _           \n");
+printf("| |    _____  _(_) ___ ___  \n");
+printf("| |   / _ \\ \\/ / |/ __/ _ \\ \n");
+printf("| |__|  __/>  <| | (_| (_) |\n");
+printf("|_____\\___/_/\\_\\_|\\___\\___/ \n");
+
 printf("\n");
-printf("               Analizador Lexico          \n");
+printf("               Compiladores         \n");
 printf("\n");
-printf("\tLuis Negrón, \n\tDavid Pacheco, \n\tAnderson Quizhpe   \n");
+printf("\t+ Luis Negrón, \n\t+ David Pacheco, \n\t+ Anderson Quizhpe   \n");
 return 0;
 }
 
