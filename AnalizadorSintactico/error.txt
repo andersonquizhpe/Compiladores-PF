@@ -1,0 +1,16 @@
+procedure main {
+  int a;
+  int b;
+  char c;
+
+  a = 1;
+  for b = 1 to 10 by 1 {
+      a = 1 ;
+      write = 1; // no se puede asignar valores a una palabra reservada 
+      }
+  print a;  // print no es una palabra reservada 
+  write b;
+  {
+    a = b[10,30]; 
+}
+// no existe llave de cierre
